@@ -1,0 +1,5 @@
+=== SERC Mini-OS — CS225 Copperbelt University ===
+[T0000] [*] SERC Mini-OS started — volatile session (restart = clean slate)
+[T0000] [*] Memory: 256MB | Resources: Comms(3) Vehicles(4) Radios(3) Officers(2)
+[T0000] [*] Components: Process Mgmt | CPU Scheduling | Memory | IPC | Deadlock | File Log
+[T0000] [*] Session ended cleanly

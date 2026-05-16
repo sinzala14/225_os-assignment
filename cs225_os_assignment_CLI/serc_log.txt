@@ -1,0 +1,32 @@
+[2026-03-30 22:00:17] Mini-OS initialized.
+[2026-03-30 22:01:28] Process created and memory allocated.
+[2026-03-30 22:02:14] Mini-OS initialized.
+[2026-03-30 22:02:39] FCFS scheduling executed.
+[2026-04-03 18:24:43] Mini-OS initialized.
+[2026-04-03 18:25:48] Process created and memory allocated.
+[2026-04-03 18:25:57] FCFS scheduling executed.
+[2026-04-07 08:45:56] Mini-OS initialized.
+[2026-04-07 08:46:44] Process created and memory allocated.
+[2026-04-07 08:46:57] SJF scheduling executed.
+[2026-04-17 00:12:37] Mini-OS initialized.
+[2026-04-17 00:14:10] Process created and memory allocated.
+[2026-04-17 00:18:20] FCFS scheduling executed.
+[2026-04-17 00:19:00] Process created and memory allocated.
+[2026-04-28 00:22:20] Mini-OS initialized.
+[2026-04-28 00:23:59] Process created and memory allocated.
+[2026-05-01 12:45:56] Mini-OS initialized.
+[2026-05-12 19:52:59] Mini-OS initialized.
+[2026-05-13 19:23:32] Mini-OS initialized.
+[2026-05-13 19:27:05] Process created and memory allocated.
+[2026-05-13 19:33:06] FCFS scheduling executed.
+[2026-05-13 19:34:01] Mini-OS initialized.
+[2026-05-13 19:35:59] Mini-OS initialized.
+[2026-05-13 19:38:19] Mini-OS initialized.
+[2026-05-13 19:41:18] Mini-OS initialized.
+[2026-05-13 19:44:00] Mini-OS initialized.
+[2026-05-13 19:47:21] Process created and memory allocated.
+[2026-05-13 19:48:00] Process created and memory allocated.
+[2026-05-13 19:50:34] Priority scheduling executed.
+[2026-05-13 19:30:35] Mini-OS initialized.
+[2026-05-13 19:54:14] Mini-OS initialized.
+[2026-05-13 19:54:38] Process created and memory allocated.
